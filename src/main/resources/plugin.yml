@@ -1,0 +1,12 @@
+name: Disenchanting
+version: @version@
+main: c8r821.minecraft.Disenchanting
+author: c8r821
+api-version: 1.13
+
+commands:
+  disenchanting:
+    permission: disenchanting.use
+permissions:
+  disenchanting.use:
+    default: true
